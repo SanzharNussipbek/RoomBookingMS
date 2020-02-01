@@ -52,7 +52,7 @@ The program has error handling function and can deal with errors like:
 
 ## Authors
 
-* **Sanzhar Nussipbek** - *18200257* - * 18200257@life.hkbu.edu.hk *
+* **Sanzhar Nussipbek** 
 
 
 ## Acknowledgments
